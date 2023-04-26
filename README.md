@@ -12,3 +12,5 @@ Step 3 − Swap with value at location MIN
 Step 4 − Increment MIN to point to next element
 
 Step 5 − Repeat until list is sorted
+
+![image](https://user-images.githubusercontent.com/124857336/234469996-66b9a6d1-492a-41d3-9f41-8e6fde575dd1.png)
